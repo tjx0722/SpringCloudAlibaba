@@ -1,0 +1,12 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    # gateway配置
+    gateway:
+      # 路由规则
+      routes:
+        - id: # 路由的唯一标识
+

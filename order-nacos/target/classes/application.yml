@@ -1,0 +1,13 @@
+server:
+  port: 8003
+# 应用名称 nacos将其作为服务名称
+spring:
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      server-addr: 192.168.227.128:8847
+      discovery:
+        username: nacos
+        password: nacos
+        namespace: public
