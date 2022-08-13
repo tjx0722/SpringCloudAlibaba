@@ -48,3 +48,4 @@ logs/
 /order-nacos/target
 /order-openfeign/*.iml
 /order-openfeign/target
+/stock-nacos/*.iml
