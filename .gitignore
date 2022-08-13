@@ -32,3 +32,19 @@ release/
 
 ### log ###
 logs/
+/stock-nacos/*.iml
+/stock-nacos/target
+/stock/*.iml
+/stock/target
+/product-nacos/*.iml
+/product-nacos/target
+/order-ribbon/*.iml
+/order-ribbon/target
+/gateway/*.iml
+/order/target
+/order/*.iml
+/order-nacos/*.iml
+/order-nacos/*.iml
+/order-nacos/target
+/order-openfeign/*.iml
+/order-openfeign/target
