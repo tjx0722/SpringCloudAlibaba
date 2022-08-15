@@ -2,7 +2,7 @@
 
 ## springCloudAlibab练习
 
-## 刷题
+## 刷题 practice包下
 
 1. 入门题
    - 输入处理（重要）： HJ5.进制转换 (JinZhiZhuanHuan)
