@@ -11,6 +11,7 @@
         <module>order-ribbon</module>
         <module>order-openfeign</module>
         <module>gateway</module>
+        <module>practice</module>
     </modules>
     <!--<parent>
         <groupId>org.springframework.boot</groupId>

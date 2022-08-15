@@ -1,4 +1,4 @@
-package com.tuingxueyuan.stock.practice.zifuchuancaozuo2;
+package zifuchuancaozuo2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -19,3 +19,9 @@
    - *HJ106.字符串逆序 (ReverseStr)
    - leetcode 1839 最长子字符串 //滑动窗口 (LongestSubStr)
    - HJ46.截取字符串 (SubString)
+3. 排序
+   - HJ8.合并表记录 (CombineTable)
+   - *HJ14.字符串排序
+   - HJ27.查找兄弟单词
+   - *NC37.合并区间
+   - *HJ68.成绩排序

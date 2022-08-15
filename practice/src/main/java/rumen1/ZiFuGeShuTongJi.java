@@ -1,4 +1,4 @@
-package com.tuingxueyuan.stock.practice.rumen1;
+package rumen1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
