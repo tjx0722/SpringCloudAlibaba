@@ -21,7 +21,13 @@
    - HJ46.截取字符串 (SubString)
 3. 排序
    - HJ8.合并表记录 (CombineTable)
-   - *HJ14.字符串排序
-   - HJ27.查找兄弟单词
+   - *HJ14.字符串排序 (StringSort)
+   - HJ27.查找兄弟单词 
    - *NC37.合并区间
    - *HJ68.成绩排序
+4. 栈
+   - NC52.括号序列 (bracket)
+   - *leetcode 1614.括号的最大嵌套深度
+5. 排列组合
+   - *leetcode 面试题08.08.有重复字符串的排列组合
+   - leetcode 77.组合
