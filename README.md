@@ -1,8 +1,8 @@
 # SpringCloudAlibabaTest
 
-## springCloudAlibab练习
+## 1. springCloudAlibab练习
 
-## 刷题 practice包下
+## 2. 刷题 (practice包下)
 
 1. 入门题
    - 输入处理（重要）： HJ5.进制转换 (JinZhiZhuanHuan)
@@ -29,5 +29,5 @@
    - NC52.括号序列 (bracket)
    - *leetcode 1614.括号的最大嵌套深度
 5. 排列组合
-   - *leetcode 面试题08.08.有重复字符串的排列组合
+   - *leetcode 面试题08.08.有重复字符串的排列组合 (RepeatStrPermutation)
    - leetcode 77.组合
